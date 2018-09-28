@@ -1,0 +1,21 @@
+{
+  "name": "ebabel-random-list",
+  "version": "1.0.0",
+  "description": "Returns the subset of a list of x elements from a larger source list.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebabel-eu/ebabel-random-list.git"
+  },
+  "keywords": [
+    "games",
+    "module",
+    "javascript"
+  ],
+  "author": "Thomas Amar <hello@ebabel.eu> (https://ebabel.eu/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ebabel-eu/ebabel-random-list/issues"
+  },
+  "homepage": "https://github.com/ebabel-eu/ebabel-random-list#readme"
+}
