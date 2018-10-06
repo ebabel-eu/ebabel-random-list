@@ -1,5 +1,5 @@
 # ebabel-random-list
-[![Build Status](https://travis-ci.org/ebabel-eu/ebabel-random-list.svg?branch=master)](https://travis-ci.org/ebabel-eu/ebabel-random-list)
+[![Build Status](https://travis-ci.org/ebabel-games/ebabel-random-list.svg?branch=master)](https://travis-ci.org/ebabel-games/ebabel-random-list)
 
 Returns the subset of a list of x elements from a larger source list.
 
